@@ -1,0 +1,10 @@
+K-Nearest Neighbours
+https://www.geeksforgeeks.org/k-nearest-neighbours/
+
+
+Implementation of K Nearest Neighbors
+https://www.geeksforgeeks.org/implementation-k-nearest-neighbors/
+
+
+Project | kNN | Classifying IRIS Dataset
+https://www.geeksforgeeks.org/project-knn-classifying-iris-dataset/

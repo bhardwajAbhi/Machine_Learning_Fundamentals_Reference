@@ -1,0 +1,3 @@
+ML | Log Loss and Mean Squared Error
+
+Link - https://www.geeksforgeeks.org/ml-log-loss-and-mean-squared-error/

@@ -1,0 +1,20 @@
+ML | Why Logistic Regression in Classification ?
+https://www.geeksforgeeks.org/ml-why-logistic-regression-in-classification/
+
+
+ML | Cost function in Logistic Regression
+https://www.geeksforgeeks.org/ml-cost-function-in-logistic-regression/
+
+
+ML | Logistic Regression using Python
+https://www.geeksforgeeks.org/ml-logistic-regression-using-python/
+
+
+Understanding Logistic Regression
+https://www.geeksforgeeks.org/understanding-logistic-regression/
+
+
+ML | Logistic Regression using Tensorflow
+https://www.geeksforgeeks.org/ml-logistic-regression-using-tensorflow/
+
+

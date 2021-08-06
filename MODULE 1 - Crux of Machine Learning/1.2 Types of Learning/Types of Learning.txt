@@ -1,0 +1,8 @@
+Article 1 - ML | Types of Learning – Supervised Learning
+Link - https://www.geeksforgeeks.org/ml-types-learning-supervised-learning/
+
+Artice 2 - ML | Types of Learning – Part 2
+Link - https://www.geeksforgeeks.org/ml-types-learning-part-2/
+
+Article 3 - Getting started with Machine Learning
+Link - https://www.geeksforgeeks.org/getting-started-machine-learning/

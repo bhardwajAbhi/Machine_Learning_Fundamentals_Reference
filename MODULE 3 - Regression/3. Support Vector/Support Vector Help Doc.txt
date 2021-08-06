@@ -1,0 +1,16 @@
+Classifying data using Support Vector Machines(SVMs) in Python
+https://www.geeksforgeeks.org/classifying-data-using-support-vector-machinessvms-in-python/
+
+
+ML | Using SVM to perform classification on a non-linear dataset
+https://www.geeksforgeeks.org/ml-using-svm-to-perform-classification-on-a-non-linear-dataset/
+
+
+ML | Non-Linear SVM
+https://www.geeksforgeeks.org/ml-non-linear-svm/
+
+
+Train a Support Vector Machine to recognize facial features in C++
+https://www.geeksforgeeks.org/train-a-support-vector-machine-to-recognize-facial-features-in-c/
+
+

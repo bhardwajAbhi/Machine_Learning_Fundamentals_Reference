@@ -1,0 +1,6 @@
+Python | Implementation of Polynomial Regression
+https://www.geeksforgeeks.org/python-implementation-of-polynomial-regression/
+
+
+Types of Regression Techniques
+https://www.geeksforgeeks.org/types-of-regression-techniques/

@@ -1,0 +1,5 @@
+Article 1 - ML | What is Machine Learning ?
+Link - https://www.geeksforgeeks.org/ml-machine-learning/
+
+Article 2 - Machine Learning – Applications
+Link - https://www.geeksforgeeks.org/machine-learning-introduction/

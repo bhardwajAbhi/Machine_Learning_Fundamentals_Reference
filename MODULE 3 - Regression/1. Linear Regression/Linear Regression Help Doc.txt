@@ -1,0 +1,18 @@
+ML | Linear Regression
+https://www.geeksforgeeks.org/ml-linear-regression/
+
+
+Linear Regression (Python Implementation)
+https://www.geeksforgeeks.org/linear-regression-python-implementation/
+
+
+Gradient Descent in Linear Regression
+https://www.geeksforgeeks.org/gradient-descent-in-linear-regression/
+
+
+ML | Normal Equation in Linear Regression
+https://www.geeksforgeeks.org/ml-normal-equation-in-linear-regression/
+
+
+Linear Regression Using Tensorflow
+https://www.geeksforgeeks.org/linear-regression-using-tensorflow/
